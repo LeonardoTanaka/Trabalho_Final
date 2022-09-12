@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wiUQzWa8TDKPhSLFQeQthTy4EWaQ1PbDjc0PILcOb1xPsD4qKKqdKa3b8oLKiJd6OoicXo/NLVEU7BEC64JtHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Documents\\Compiladores\\the-interpreter-101\\the-interpreter-101.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\antlr4.runtime.standard\\4.9.2\\antlr4.runtime.standard.4.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,7 @@
+i = 1;
+while (i < 10) DO{
+    i = i+1;
+    write "O valor do I é: ";
+    write i;
+
+}
